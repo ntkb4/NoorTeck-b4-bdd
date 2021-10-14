@@ -10,7 +10,7 @@ Feature: Login functionality
     Then System displays message "Successfully Saved"
 
     Examples: 
-      | region  | gradeName    |
-      | "scrum" | "Senior xyz" |
-      | "sit"   | "Senior xyz" |
-      | "stage" | "Senior xyz" |
+      | region  | gradeName   		 |
+      | "scrum" | "Senior lv2 xyz" |
+      | "sit"   | "Senior lv3 xyz" |
+      | "stage" | "Senior lv4 xyz" |
