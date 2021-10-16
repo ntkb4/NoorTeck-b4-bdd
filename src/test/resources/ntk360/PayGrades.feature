@@ -14,9 +14,4 @@ Feature: Login functionality
       | "scrum" | "junior lv2 abc" |
       | "sit"   | "junior lv3 abc" |
       | "stage" | "junior lv4 abc" |
-      | "scrum" | "Senior lv2 abc" |
-      | "sit"   | "Senior lv3 dcs" |
-      | "stage" | "Senior lv4 bbc" |
-      | "scrum" | "Senior lv2 abc" |
-      | "sit"   | "Senior lv3 dcs" |
-      | "stage" | "Senior lv4 bbc" |
+      
