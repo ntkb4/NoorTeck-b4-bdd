@@ -11,6 +11,12 @@ Feature: Login functionality
 
     Examples: 
       | region  | gradeName   		 |
-      | "scrum" | "Senior lv2 xyz" |
-      | "sit"   | "Senior lv3 xyz" |
-      | "stage" | "Senior lv4 xyz" |
+      | "scrum" | "junior lv2 abc" |
+      | "sit"   | "junior lv3 abc" |
+      | "stage" | "junior lv4 abc" |
+      | "scrum" | "Senior lv2 abc" |
+      | "sit"   | "Senior lv3 dcs" |
+      | "stage" | "Senior lv4 bbc" |
+      | "scrum" | "Senior lv2 abc" |
+      | "sit"   | "Senior lv3 dcs" |
+      | "stage" | "Senior lv4 bbc" |
